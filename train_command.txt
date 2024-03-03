@@ -1,0 +1,1 @@
+python model_main_tf2.py --model_dir=models/pile_net --pipeline_config_path=models/ssd_mobilenet_v2/pipeline.config

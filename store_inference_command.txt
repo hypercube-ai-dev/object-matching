@@ -1,0 +1,1 @@
+python exporter_main_v2.py --trained_checkpoint_dir=models/pile_net --output_directory=inference_graph --pipeline_config_path=models/ssd_mobilenet_v2/pipeline.config
